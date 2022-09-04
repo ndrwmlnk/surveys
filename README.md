@@ -3,6 +3,9 @@
 
 📄 [**GAN Inversion: A Survey**](https://arxiv.org/abs/2101.05278)  
 
+📄 [**The Creation and Detection of Deepfakes: A Survey**](https://dl.acm.org/doi/pdf/10.1145/3425780)  
+
+
 ---
 
 📄 [**A Survey on Content-Aware Image and Video Retargeting**](https://dl.acm.org/doi/pdf/10.1145/3231598)  
