@@ -13,6 +13,8 @@
 
 📄 [**A survey of image synthesis and editing with generative adversarial networks**](https://ieeexplore.ieee.org/document/8195348)  
 
+📄 [**A Unifying Review of Deep and Shallow Anomaly Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9347460)  
+
 ---
 
 📄 [**Model-based Reinforcement Learning: A Survey**](https://arxiv.org/abs/2006.16712)
