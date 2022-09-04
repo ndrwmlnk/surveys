@@ -5,6 +5,8 @@
 
 ---
 
+📄 [**A Survey on Content-Aware Image and Video Retargeting**](https://dl.acm.org/doi/abs/10.1145/3231598)  
+
 📄 [**A survey of image synthesis and editing with generative adversarial networks**](https://ieeexplore.ieee.org/document/8195348)  
 
 ---
