@@ -9,3 +9,9 @@
 📄 [**awesome --all**](https://github.com/sindresorhus/awesome)  
 
 ---
+
+# Paper search engines
+
+https://elicit.org
+
+---
