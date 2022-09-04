@@ -15,7 +15,9 @@
 
 ---
 
-📄 [**Model-based Reinforcement Learning: A Survey**](https://arxiv.org/abs/2006.16712)  
+📄 [**Model-based Reinforcement Learning: A Survey**](https://arxiv.org/abs/2006.16712)
+
+📄 [**A Survey on Model-based Reinforcement Learning**](https://arxiv.org/abs/2206.09328)
 
 📄 [**awesome --all**](https://github.com/sindresorhus/awesome)  
 
